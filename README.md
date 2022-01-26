@@ -13,13 +13,13 @@ Write a React app that utilize apis from your NodeJs server.
 <ul>
   <li>First of all show login page to ask the user for credentials. Once the user is validated, return a token from your NodeJs server which will be used for rest of the api calls to your server.</li>
 	<li>Use redux / context api for state management and Axios (or similar library) for fetching data from APIs.</li>
-	<li>Utilize the apis and create Home page with at least three categories/resources i.e People, Starships and Planets (follow the instructions give under api to find out resource panel on swap.dev). </li>
+	<li>Utilize the apis and create Home page with at least three categories/resources i.e People, Starships and Planets (follow the instructions given under api to find out resource panel on swap.dev). </li>
 	<li>When user clicks on a category, it will navigate to another page with list of subitems in that category.</li>
 	<li>Display spinner or placeholder component while the API request is ongoing.</li>
 	<li>Make it look decent and somewhat responsive so that it doesn’t look terrible on a mobile phone.</li>
   <li>Add images for each category and sub-items. Fetch the images from NodeJs server and DO NOT add them on the frontend.</li>
 	<li>Push the code to a public github repo wilth a README.md that explains how to execute the app.</li>
-  <li>Deploy the app onto heroku server</li>
+  <li>Deploy the app onto a heroku instance or equivalent</li>
 </ul>
 
 # BONUS
