@@ -2,7 +2,7 @@
 Your task is to create a small Star wars Fan Website.
 
 # APIs: https://swapi.dev/documentation
-Click on the Documentation in the upper right corner. In the documentation, please find the menu panel titled with Resources on the left-hand side and utilize that to create the application.
+In the documentation, please find the menu panel titled with Resources on the left-hand side and utilize that to create the application.
 
 # Task
 You need to create a server in NodeJs will fetch data from swapi.dev and send it to your frontend website. The Front-end website needs to be developed using ReactJs. Except for the login endpoint, the rest of the endpoints will need to access through the token that is returned after a successful login.
