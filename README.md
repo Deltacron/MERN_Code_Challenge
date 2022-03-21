@@ -15,7 +15,7 @@ Write a React app(with proper folders) that utilizes APIs from your NodeJs serve
 	<li>Utilize the APIs and create a Home page with at least three categories/resources i.e People, Starships, and Planets (follow the instructions given under API to find out resource panel on swap.dev).</li>
 	<li>When the user clicks on a category, it will navigate to another page with a list of subitems in that category.</li>
 	<li>Display spinner or placeholder component while the API request is ongoing.</li>
-	<li>Create a good looking and responsive application that adopts to different screen resolutions. DO NOT submit the test with basic design. Also DO NOT use any library for CSS. Write your own css to designt the pages.</li>
+	<li>Create a good looking and responsive application that adopts to different screen resolutions. DO NOT submit the test with basic design. Also DO NOT use any library for CSS. Write your own css to design the pages.</li>
   	<li>Add images for each category and sub-items. Fetch the images from the NodeJs server and DO NOT add them on the frontend.</li>
 	<li>Push the code to a public GitHub repo with a `README.md` that explains how to execute the app.</li>
   	<li>Deploy the app onto a Heroku, AWS instance, or equivalent.</li>
