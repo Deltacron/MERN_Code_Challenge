@@ -30,6 +30,7 @@ As a sample, you can refer to https://www.starwars.com/films.
 	<li>Without images, you will fail the test immediately.</li>
 	<li>Focus on good coding practices. </li>
 	<li>Code quality needs to be good. Bad code quality might get rejected immediately.</li>
+	<li>Exceptions needs to be handled properly.</li>
 </ol>
 
 ## Bonus🌟
