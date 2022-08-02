@@ -1,5 +1,5 @@
 # MERN Code Challenge 
-Your task is to create a small Star wars Fan Website.
+Your task is to create an elegant Star wars Fan Website with user profile.
 
 # APIs: https://swapi.dev/documentation
 In the documentation, please find the menu panel titled with Resources on the left-hand side and utilize that to create the application.
@@ -10,7 +10,8 @@ You need to create a server in NodeJs will fetch data from swapi.dev and send it
 ## Steps
 Write a React app(with proper folders) that utilizes APIs from your NodeJs server.
 <ol>
-  <li>First of all, show the login page to ask the user for credentials. Once the user is validated, return a token from your NodeJs server which will be used for the rest of the API calls to your server.</li>
+	<li>Create User Authentication mechanism (registration/login) on server. Store the user information in a MangoDB. Create Registration and Login apis.</li>
+  	<li>Show the login page to ask the user for credentials. Once the user is validated, return a token from your NodeJs server which will be used for the rest of the API calls to your server.</li>
 	<li>Use redux for state management and Axios (or similar library) for fetching data from APIs.</li>
 	<li>Create a Login page and validate the user using the api created in the step 1.</li>
 	<li>Utilize the APIs and create a Home page with at least three categories/resources i.e People, Starships, and Planets (follow the instructions given under API to find out resource panel on swap.dev).</li>
@@ -31,6 +32,7 @@ As a sample, you can refer to https://www.starwars.com/films.
 	<li>Focus on good coding practices. </li>
 	<li>Code quality needs to be good. Bad code quality might get rejected immediately.</li>
 	<li>Exceptions needs to be handled properly.</li>
+	<li>DO NOT add a default GITHUB readme file with template text.</li>
 </ol>
 
 ## Bonus🌟
